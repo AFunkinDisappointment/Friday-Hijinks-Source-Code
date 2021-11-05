@@ -1,0 +1,17 @@
+{
+    // Friday Hijinks
+    "haunted-mansion": "haunted-mansion",
+
+    // Extras
+    "shaggy": "shaggy",
+
+    // Base Game
+    "stage": "stage",
+    "spooky": "spooky",
+    "philly": "philly",
+    "limo": "limo",
+    "mall": "mall",
+    "mallEvil": "mallEvil",
+    "school": "school",
+    "schoolEvil": "schoolEvil",
+}

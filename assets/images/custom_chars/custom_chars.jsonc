@@ -1,0 +1,139 @@
+{
+  // Friday Hijinks
+  "raspy": {
+    "like": "raspy",
+    "icons": [0,1,1,2],
+    "colors": ["#149DFF"]
+  },
+  "matt-ghost": {
+    "like": "matt",
+    "icons": [0,1],
+    "colors": ["#149DFF"]
+  },
+
+  // Base Game
+  "bf": {
+    "like": "bf",
+    "icons": [0,1,2],
+    "colors": ["#149DFF"]
+  },
+  "bf-car": {
+    "like": "bf-car",
+    "icons": [0,1,2],
+    "colors": ["#149DFF"]
+  },
+  "bf-christmas": {
+    "like": "bf-car",
+    "icons": [0,1,2],
+    "colors": ["#149DFF"]
+  },
+  "bf-pixel": {
+    "like": "bf-pixel",
+    "icons": [0,1,2],
+    "colors": ["#149DFF"]
+  },
+  "gf": {
+    "like": "gf",
+    "icons": [0,0,1],
+    "colors": ["#EE19D9"]
+  },
+  "gf-car": {
+    "like": "gf-car",
+    "icons": [0,0,1],
+    "colors": ["#EE19D9"]
+  },
+  "gf-christmas": {
+    "like": "gf",
+    "icons": [0,0,1],
+    "colors": ["#EE19D9"]
+  },
+  "gf-pixel": {
+    "like": "gf-pixel",
+    "icons": [0,0,1],
+    "colors": ["#EE19D9"]
+  },
+  "dad": {
+    "like": "dad",
+    "icons": [0,1,2],
+    "colors": ["#A200CA"]
+  },
+  "spooky": {
+    "like": "spooky",
+    "icons": [0,1,2],
+    "colors": ["#FD9013","#C3C3C3"]
+  },
+  "monster": {
+    "like": "newmonster",
+    "icons": [0,1,2],
+    "colors": ["#F2D046"]
+  },
+  "pico": {
+    "like": "pico",
+    "icons": [0,1,2],
+    "colors": ["#99FF7D"]
+  },
+  "mom": {
+    "like": "mom",
+    "icons": [0,1,2],
+    "colors": ["#FF95C5"]
+  },
+  "mom-car": {
+    "like": "mom-car",
+    "icons": [0,1,2],
+    "colors": ["#FF95C5"]
+  },
+  "parents-christmas": {
+    "like": "parents",
+    "icons": [0,1,2],
+    "colors": ["#A200CA", "#FF95C5"]
+  },
+  "monster-christmas": {
+    "like": "monster-christmas",
+    "icons": [0,1,2],
+    "colors": ["#F2D046"]
+  },
+  "senpai": {
+    "like": "senpai",
+    "icons": [0,1,2],
+    "colors": ["#BC7333"]
+  },
+  "senpai-angry": {
+    "like": "senpai-angry",
+    "icons": [0,1,2],
+    "colors": ["#BC7333"]
+  },
+  "spirit": {
+    "like": "spirit",
+    "icons": [0,1,2],
+    "colors": ["#E77474"]
+  },
+  "bulb-pixel": {
+    "like": "bf-pixel",
+    "icons": [0,1,2],
+    "colors": ["#149DFF"]
+  },
+
+  // Shaggy x Matt
+  "shaggy-red": {
+    "like": "shaggy-red",
+    "icons": [0,1],
+    "colors": ["#149DFF"]
+  },
+
+  // Monsterfriend (& mod variants)
+  "mf": {
+    "like": "bf",
+    "icons": [0,1,3,2],
+    "colors": ["#F2D046"]
+  },
+  "mf-christmas": {
+    "like": "bf-christmas",
+    "icons": [0,1,3,2],
+    "colors": ["#F2D046"]
+  },
+  "mf-pixel": {
+    "like": "bf-pixel",
+    "icons": [21,21],
+    "colors": ["#F2D046"]
+  }
+}

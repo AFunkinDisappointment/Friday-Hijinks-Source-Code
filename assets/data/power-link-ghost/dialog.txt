@@ -1,0 +1,12 @@
+178[ [179[ [223[ [216[ |Lunchbox| *0* =1= #shaggy#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:raspy: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      I've come to this mansion to accept your training.
+:shaggy-red: !happy! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Sure thing ma-
+:shaggy-red: !conflicted! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Who are you?
+:raspy: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Ah, what a misunderstanding this is!
+:raspy: !smug! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      I am Raspy, the terrifying ghost that haunts this horrid establishment.
+:shaggy-red: !angry! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      What a stupid name.
+:raspy: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      My shaggy friend, this is most definitely not my real name.
+:raspy: !smug! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Now that we are acquainted, would you mind for a silly old rap battle?
+:shaggy-red: !ser! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.3; |true| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ...
+:shaggy-red: !smug! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Heh, fine.
+:raspy: !ready! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #shaggy# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Try your best...

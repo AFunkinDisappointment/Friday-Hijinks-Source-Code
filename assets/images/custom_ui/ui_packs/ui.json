@@ -1,0 +1,17 @@
+{
+    "normal": {
+        "isPixel": false,
+        "builtInJudgement": false,
+        "uses": "normal"
+    },
+    "pixel": {
+        "isPixel": true,
+        "builtInJudgement": false,
+        "uses": "normal"
+    },
+    "bf": {
+        "isPixel": false,
+        "builtInJudgement": false,
+        "uses": "bf"
+    }
+}

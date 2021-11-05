@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Friday Hijinks",
+    "songs": [
+      {
+	"name": "Eerie-Presence",
+        "character": "raspy",
+        "week": 0
+      },
+      {
+	"name": "Cloaked",
+        "character": "raspy",
+        "week": 0
+      },
+      {
+	"name": "Hijinks",
+        "character": "raspy",
+        "week": 0
+      }
+    ]
+  },
+  {
+    "name": "Base Game",
+    "songs": [
+      {
+	"name": "Tutorial",
+        "character": "gf",
+        "week": 0
+      },
+      {
+        "name": "Test",
+        "character": "bf-pixel",
+        "week": 6
+      },
+      {
+        "name": "Bopeebo",
+        "character": "dad",
+        "week": 1
+      },
+      {
+        "name": "Fresh",
+        "character": "dad",
+        "week": 1
+      },
+      {
+        "name": "Dadbattle",
+        "character": "dad",
+        "week": 1
+      },
+      {
+        "name": "Spookeez",
+        "character": "spooky",
+        "week": 2
+      },
+      {
+        "name": "South",
+        "character": "spooky",
+        "week": 2
+      },
+      {
+        "name": "Monster",
+        "character": "monster",
+        "week": 2
+      },
+      {
+        "name": "Pico",
+        "character": "pico",
+        "week": 3
+      },
+      {
+        "name": "Philly",
+        "character": "pico",
+        "week": 3
+      },
+      {
+        "name": "Blammed",
+        "character": "pico",
+        "week": 3
+      },
+      {
+        "name": "Satin-Panties",
+        "character": "mom",
+        "week": 4
+      },
+      {
+        "name": "High",
+        "character": "mom",
+        "week": 4
+      },
+      {
+        "name": "Milf",
+        "character": "mom",
+        "week": 4
+      },
+      {
+        "name": "Cocoa",
+        "character": "parents-christmas",
+        "week": 5
+      },
+      {
+        "name": "Eggnog",
+        "character": "parents-christmas",
+        "week": 5
+      },
+      {
+        "name": "Winter-Horrorland",
+        "character": "monster-christmas",
+        "week": 5
+      },
+      {
+        "name": "Senpai",
+        "character": "senpai",
+        "week": 6
+      },
+      {
+        "name": "Roses",
+        "character": "senpai-angry",
+        "week": 6
+      },
+      {
+        "name": "Thorns",
+        "character": "spirit",
+        "week": 6
+      }
+    ]
+  },
+  {
+    "name": "Extra",
+    "songs": [
+      {
+	"name": "Eerie-Presence-Old",
+        "character": "matt-ghost",
+        "week": 0
+      },
+      {
+	"name": "Power-Link-Ghost",
+        "character": "raspy",
+        "week": 0
+      }
+    ]
+  }
+]
